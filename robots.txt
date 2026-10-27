@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://abnaechaaouan.com/sitemap.xml
